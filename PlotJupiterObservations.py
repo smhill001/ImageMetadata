@@ -16,7 +16,6 @@ def PlotJupiterObservations():
     sys.path.append(drive+'\\Astronomy\Python Play\Util')
     sys.path.append(drive+'\\Astronomy\Python Play\SpectroPhotometry\Spectroscopy')
     sys.path.append(drive+'\\Astronomy\Python Play\SPLibraries')
-    import datetime
     import ephem
     import os
     import numpy as np
