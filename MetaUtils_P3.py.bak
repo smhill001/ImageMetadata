@@ -7,7 +7,7 @@ Created on Fri Jun 15 12:09:48 2018
 import sys
 drive='f:'
 sys.path.append(drive+'\\Astronomy\Python Play')
-sys.path.append(drive+'\\Astronomy\Python Play\Util')
+sys.path.append(drive+'\\Astronomy\Python Play\Util_P3')
 sys.path.append(drive+'\\Astronomy\Python Play\SpectroPhotometry\Spectroscopy')
 sys.path.append(drive+'\\Astronomy\Python Play\TechniquesLibrary')
 
